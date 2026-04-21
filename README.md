@@ -1,4 +1,4 @@
-# student-management-system# Student Management System
+# student-management-system
 
 ## Description
 A Java-based application to manage student records using SQL database.
